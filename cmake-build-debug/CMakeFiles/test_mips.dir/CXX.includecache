@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhangyan/CLionProjects/test_mips/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+math.h
+-
+iomanip
+-
+map
+-
+
